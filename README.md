@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghaniy Nugrahantoro
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning and deep learning
+- 👀 I’m interested in data world
+- 🌱 I’m currently SQL and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
